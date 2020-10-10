@@ -58,6 +58,7 @@ export const text = StyleSheet.create({
     h4x: { fontSize: 17 },
     hSub: { fontSize: 15 },
     hHead: { fontSize: 21 },
+    h_big: { fontSize: 42 },
 
 
     underline: { textDecorationLine:'underline' },

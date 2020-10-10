@@ -251,7 +251,7 @@ class Home extends Component {
             <View style={Styles.misc.spanned}>
                 <StatusBar backgroundColor={colors.primary} barStyle="light-content" />
                 <View style={[dashboard.firstsection]}>
-                    <Text style={[text.light, text.white, text.h3]}>Welcome,</Text>
+                    <Text style={[text.light, text.white, text.h3]}>Welcome to FSDH,</Text>
 
                     <View style={dashboard.subheading}>
                         <TouchableOpacity
